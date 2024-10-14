@@ -1,0 +1,364 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.enlaces {
+	margin-left: 300px;
+}
+
+
+.botonin {
+	background: rgb(197, 222, 234);
+	/* Old browsers */
+	background: -moz-linear-gradient(top, rgba(197, 222, 234, 1) 0%, rgba(138, 187, 215, 1) 31%, rgba(6, 109, 171, 1) 100%);
+	/* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(197, 222, 234, 1) 0%, rgba(138, 187, 215, 1) 31%, rgba(6, 109, 171, 1) 100%);
+	/* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(197, 222, 234, 1) 0%, rgba(138, 187, 215, 1) 31%, rgba(6, 109, 171, 1) 100%);
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c5deea', endColorstr='#066dab', GradientType=0);
+	/* IE6*/
+	border: 1px solid black;
+}
+
+.boton {
+	background: rgb(197, 222, 234);
+	/* Old browsers */
+	background: -moz-linear-gradient(top, rgba(197, 222, 234, 1) 0%, rgba(138, 187, 215, 1) 31%, rgba(6, 109, 171, 1) 100%);
+	/* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(197, 222, 234, 1) 0%, rgba(138, 187, 215, 1) 31%, rgba(6, 109, 171, 1) 100%);
+	/* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(197, 222, 234, 1) 0%, rgba(138, 187, 215, 1) 31%, rgba(6, 109, 171, 1) 100%);
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c5deea', endColorstr='#066dab', GradientType=0);
+	/* IE6*/
+	border: 1px solid black;
+}
+
+header {
+	margin: 0 auto;
+}
+
+.m {
+	width: 50px;
+	height: 50px;
+}
+
+.n {
+	width: 39px;
+	height: 39px;
+	margin-left: 590px;
+
+}
+
+.b {
+	width: 150px;
+	height: 150px;
+
+
+}
+
+.a1 {
+	width: 90px;
+	height: 90px;
+}
+
+.c {
+	width: 150px;
+	height: 150px;
+}
+.dx{
+	width: 350px;
+	height: 350px;
+}
+.p {
+	width: 900px;
+	display: flex;
+	flex-direction: column;
+}
+
+.h {
+	font-size: 50px;
+}
+
+body {
+	background-color: green;
+	margin: 0;
+}
+
+.na {
+	border-style: solid;
+	border-color: red;
+	width: 750px;
+	height: 300px;
+	margin: 9px;
+	padding: 10px;
+}
+
+.ta {
+	border-style: solid;
+	border-color: red;
+	width: 1050px;
+	margin: 9px;
+	padding: 10px;
+}
+
+.lia {
+	margin-left: 300px;
+	margin-left: 390px;
+	width: 500px;
+
+}
+
+.te {
+	border-style: solid;
+	border-color: red;
+	width: 700px;
+}
+
+.quiero {
+	width: 590px;
+	height: 570px;
+
+}
+
+.mucho {
+
+	border-style: solid;
+	border-color: red;
+	width: 350px;
+	margin: 9px;
+	padding: 10px;
+}
+
+.y {
+	border-style: solid;
+	border-color: red;
+	width: 350px;
+	height: 649px;
+	position: relative;
+	margin: 9px;
+	padding: 10px;
+}
+
+.no {
+	border-style: solid;
+	border-color: red;
+	width: 750px;
+	height: 629px;
+	margin: 9px;
+	padding: 10px;
+}
+
+.me {
+	border-style: solid;
+	border-color: red;
+	width: 590px;
+	height: 290px;
+
+}
+
+.rendire {
+	border-style: solid;
+	border-color: red;
+	width: 550px;
+	height: 710px;
+}
+
+.jamas {
+	border-style: solid;
+	border-color: red;
+	width: 500px;
+	margin: 9px;
+	padding: 10px;
+}
+
+.esperare {
+	border-style: solid;
+	border-color: red;
+	width: 500px;
+	margin: 9px;
+	padding: 10px;
+}
+
+.vuelvas{
+	border-style: solid;
+	border-color: red;
+	width: 900px;
+	display:flex;
+	flex-direction: column;
+	
+}
+.pronto{
+	display: flex;
+	flex-direction:row;
+}
+.a {
+	border-style: solid;
+	border-color: red;
+	width: 1210px;
+	height: 570px;
+}
+.xd{
+	border-style: solid;
+	border-color: red;
+	width: 483px;
+}
+.love{
+	border-style: solid;
+	border-color: red;
+	width: 700px;
+	margin: 9px;
+	padding: 10px;
+}
+.jc {
+	margin-bottom: 90px;
+	width: 90px;
+	height: 60px;
+}
+
+.e {
+	width: 130px;
+	height: 50px;
+}
+
+.f {
+	width: 260px;
+	height: 260px;
+}
+
+.ja {
+	width: 150px;
+	height: 90px;
+}
+
+.ju {
+	width: 150px;
+	height: 90px;
+}
+
+.jo {
+	width: 150px;
+	height: 90px;
+}
+
+.to {
+	width: 150px;
+	height: 90px;
+}
+
+.km {
+	width: 350px;
+	height: 200px;
+}
+
+.f {
+	width: 170px;
+	height: 170px;
+}
+
+.kj {
+	width: 200px;
+	height: 200px;
+}
+.div_menu_active{
+color: red;
+}
+.imagenes{
+	width: 150px;
+	height: 150px;
+	padding: 7px;;
+	gap: 3px;
+}
+.f1 {
+	width: 50px;
+	height: 50px;
+	text-align: center;
+}
+
+.f2 {
+	width: 50px;
+	height: 50px;
+	justify-content: center;
+	text-align: center;
+}
+
+.f3 {
+	width: 50px;
+	height: 50px;
+	justify-content: center;
+}
+
+.f7 {
+	margin-left: 90px;
+}
+
+.f8 {
+	margin-left: 70px;
+}
+
+.fg {
+	width: 70px;
+	height: 70px;
+
+}
+
+.fh {
+	width: 50px;
+	height: 50px;
+	margin-right: 3000px;
+}
+
+.f13 {
+	width: 130px;
+	height: 130px;
+}
+
+.f14 {
+	width: 70px;
+	height: 70px;
+	margin-left: 190px;
+
+}
+
+.f15 {
+	width: 130px;
+	height: 130px;
+	margin-left: 290px;
+}
+
+.pm {
+	width: 300px;
+	height: 130px;
+}
+
+.f16 {
+	width: 90px;
+	height: 90px;
+}
+
+footer {
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.formulario {
+	width: 150px;
+	height: 90px;
+}
+
+.formulairo2 {
+	width: 150px;
+	height: 90px;
+}
+
+input:focus {
+	background-color: blue;
+}
+
+input:invalid {
+	background-color: lightblue;
+}
